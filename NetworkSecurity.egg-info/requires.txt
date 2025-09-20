@@ -2,5 +2,3 @@ python-env
 pandas
 numpy
 certifi
-
-# -e .

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: NetworkSecurity
+Version: 0.0.1
+Author: My name
+Author-email: v.vezerian@gmail.com
+Requires-Dist: python-env
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: certifi
